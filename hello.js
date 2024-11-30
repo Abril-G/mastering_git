@@ -1,1 +1,2 @@
-window.alert('Hello world');
+console.log('Hello Git!');
+console.log('Hello Github!');
